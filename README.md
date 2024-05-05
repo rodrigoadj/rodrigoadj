@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm Rodrigo - Olá eu sou Rodrigo </h1> 
-<h3> I am currently a game developer studying Digital Games at the Federal Institute of Bahia (IFBA). I have experience with software such as Unity, Blender, and Inkscape. I also have some skills in 3D and 2D animation, Godot, vector art, and Reaper for sound editing. My English is basic (it’s important to emphasize this), but I am studying it daily. <h3/>
+<h3> I am currently a game developer studying Digital Games at the Federal Institute of Bahia (IFBA). I have experience with software such as Unity, Blender, and Inkscape. I also have some skills in Python, 3D and 2D animation, Godot, Vector Art, and Reaper for Sound Editing. My English is basic (it’s important to emphasize this), but I am studying it daily. <h3/>
 
 - 🌍 Nationality: Brazilian/Brasileiro
   
