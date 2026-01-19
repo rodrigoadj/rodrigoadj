@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou desenvolvedor de jogos cursando Jogos Digitais no Instituto Federal da Bahia (IFBA). Tenho experiência com softwares como Unity, Blender e Inkscape. Também tenho algumas habilidades em Python, animação 3D e 2D, Godot, Vector Art e Reaper para edição de som. Meu inglês é básico, mas estudo diariamente.
+Atualmente estou cursando Jogos Digitais no Instituto Federal da Bahia (IFBA). Tenho experiência com programação C# focado na unity na implementação de sistemas e mecânicas criativas e simplificadas, desenvolvimento de particulas e efeitos visuais com shader graph e modelagem 3D com foco em objetos low poly e design de texturas procedurais com blender.
 
 
 ## 🌐 Socials:
